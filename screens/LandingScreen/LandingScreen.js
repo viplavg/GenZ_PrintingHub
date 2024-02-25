@@ -58,7 +58,7 @@ const styles = StyleSheet.create({
   brandingTitle: {
     fontSize: 52,
     fontFamily: "Raleway_700Bold",
-    color: "red",
+    color: globalStyles.primaryTextColor,
   },
 });
 
